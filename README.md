@@ -18,7 +18,7 @@ This project uses data from the 1930s when the practice of redlining initially b
 ### Source Data
 The data used in this project is `metro-grades.csv` from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/redlining), saved into the variable `redlining` in the notebook.
 ## Results and evaluation
-Provide an overview of the results of your project, including any relevant metrics and graphs. Include explanations of any evaluation methodologies and how they were used to assess the quality of the model. You can also make it appealing by including any pictures of your analysis or visualizations.
+The impacts of redlining are still felt today - previously redlined areas are still segregated the way they were intended to be back in the 1930s. My hypothesis (areas with histories of slavery would be more segregated) was disproven - the Northern region was actually slightly more segregated than the Southern region. A potential explanation for this would be laws enacted in response to the Great Migration from the 1910s-1970s.4 During the Great Migration, approximately six million Black people moved from the American South to escape racial violence, pursue economic and educational opportunities, and obtain freedom from Jim Crow Laws. However, they were met with resitance, and faced injustices and difficulties after migrating. Redlining laws in part, emerged as a result of the influx of Black folks in predominately White areas, leading both the North and South to most significantly still show the effects of this.
 
 ## Future work
 - Use GIS software to produce better and more accurate maps that would better reflect a metro-area that isn't forced into a particular state boundary.
