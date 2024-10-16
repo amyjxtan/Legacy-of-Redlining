@@ -4,6 +4,8 @@
 
 This project uses data from the 1930s when the practice of redlining initially began and compares it to 2020 census demographic data to examine segregation in the present. It demonstrates how, almost 90 years later, there is segregation based on the Home Owner's Loan Corporation grade assigned to it back in the 1930s on the state, division, and regional levels. 
 
+**Note:** this project is best viewed when the notebook is downloaded and run, so that maps fully display and are interactive.
+
 ## Installation and Setup
 ### Codes and Resources Used
 
